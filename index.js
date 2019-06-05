@@ -21,8 +21,14 @@ switch (string) {
     break;
   case string.toLowerCase() === lowercase :
   return "I can't hear you!";
+  break;
 
-  
+  default:
+  return "I love you, too.";
+
+
+
+
 
 }
 
