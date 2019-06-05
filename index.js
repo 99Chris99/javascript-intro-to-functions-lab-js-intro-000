@@ -13,3 +13,14 @@ function logShout(string) {
 function logWhisper(string) {
   console.log(string.toLowerCase())
 }
+
+function sayHiToGrandma(string) {
+switch (string) {
+  case .toUpperCase() === uppercase  :
+    return "YES INDEED!"
+    break;
+  default:
+    
+}
+
+}
