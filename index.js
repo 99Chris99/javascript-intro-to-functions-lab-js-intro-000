@@ -16,10 +16,11 @@ function logWhisper(string) {
 
 function sayHiToGrandma(string) {
 switch (string) {
-  case string.toUpperCase() === uppercase  :
+  case string.toUpperCase() === string  :
     return "YES INDEED!";
     break;
-  case string.toLowerCase() === lowercase :
+
+  case string.toLowerCase() === string :
   return "I can't hear you!";
   break;
 
