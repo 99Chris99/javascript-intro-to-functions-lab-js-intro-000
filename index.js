@@ -22,7 +22,7 @@ switch (string) {
   case string.toLowerCase() === lowercase :
   return "I can't hear you!";
 
-  default:
+  
 
 }
 
